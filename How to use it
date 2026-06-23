@@ -1,0 +1,5 @@
+Go to your repo on GitHub → Settings → Pages
+Under "Build and deployment" → Source: Deploy from a branch
+Branch: main, folder: / (root) → Save
+Wait ~1 min → GitHub gives you a live URL like https://yourusername.github.io/ChessMaster/
+Open that URL → game runs in-browser
